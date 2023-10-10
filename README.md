@@ -34,3 +34,5 @@ This dataset consists of below metadata information:
 
 ## 1. Data Profiling:
 The project utilizes ER/Studio Data Architect to design and manage data models and metadata for the database. It involves creating conceptual, logical, and physical data models, mapping relationships and dependencies between them, and implementing a multi-fact dimensional model using normalization and schema design strategies.
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/28b42fd0-16e6-4741-bdeb-d3e19d16fdb6)
+
