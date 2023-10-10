@@ -9,3 +9,17 @@ This repository contains the data engineering solution for analyzing restaurant 
 ## Data Source:
 
 The data for this project is sourced from the Chicago Data Portal. It includes information on inspections of restaurants and other food establishments in Chicago from January 1, 2010, to the present. Inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure. The dataset is updated daily and is available in CSV format.
+
+## Data Description:
+
+Number of Rows: 443,000
+Number of Columns: 17
+Update Frequency: Daily
+File Format: CSV
+
+## Tools Used:
+
+ER/Studio Data Architect for data modeling.
+Alteryx for data integration and ETL processes.
+Microsoft SQL Server for data warehousing.
+Power BI and Tableau for business intelligence reporting and visualization.
