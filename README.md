@@ -66,21 +66,25 @@ Table: STG_CHICAGO_FOOD_ESTD_INS
 ![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/bdfab847-08f5-4158-9633-f7284265e8e6)
 
 
-Dimensional Data Layer: Data is loaded into the multi-fact dimensional data warehouse after extraction and transformation with defined rules. Data quality checks are performed post data load, and audit columns are added to each dimension and fact for record audit and maintenance.
+Dimensional Data Layer: 
 
-Schemas: 
-CHICAGO_INS
+Data is loaded into the multi-fact dimensional data warehouse after extraction and transformation with defined rules. Data quality checks are performed post data load, and audit columns are added to each dimension and fact for record audit and maintenance.
 
-Tables:
-Dim_Chicago_BusinessLicenses
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/1653ac92-ff2e-4a73-b1e8-1f09995bd5d9)
 
-Dim_Chicago_FacilityType
-Dim_Chicago_FoodInspectionResults
-Dim_Chicago_FoodInspectionType
-Dim_Chicago_FoodRiskCategory
-Dim_Chicago_Geo
-Dim_Chicago_Restaurants
-Dim_Chicago_ViolationCodes_SCD
-FCT_Chicago_FoodInspections_Violations
-FCT_Chicago_FoodInspections
-FCT_NYC_FoodInspection_Violations
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/0d12e53a-c1da-49ba-9469-f280316b3cb5)
+
+
+## BI Reporting:
+
+Business Intelligence reporting involves preparing, analyzing, and portraying business metrics to support decision making. This project leverages the potential of Power BI and Tableau to derive key business insights by identifying key measurements such as satisfaction level and applying dimensions such as inspection date, restaurant, and violation code information.
+
+BI reports and dashboards have been developed to identify violations in health norms and regulations at restaurants and cafeterias in Chicago.
+
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/61cdd7a1-3233-4a73-a679-6084cacc0ba4)
+
+
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/020011ca-5a62-4acc-9af9-1eb07edf1f74)
+
+
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/8c6b3cad-32c6-42c5-b281-09ced05b11b9)
