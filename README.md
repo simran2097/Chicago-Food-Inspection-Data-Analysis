@@ -36,3 +36,10 @@ This dataset consists of below metadata information:
 The project utilizes ER/Studio Data Architect to design and manage data models and metadata for the database. It involves creating conceptual, logical, and physical data models, mapping relationships and dependencies between them, and implementing a multi-fact dimensional model using normalization and schema design strategies.
 ![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/28b42fd0-16e6-4741-bdeb-d3e19d16fdb6)
 
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/f3453bef-8d1a-4772-8a31-2bfbec5623f7)
+
+## 2. Dynamic Dimensional Modeling:
+
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/4d7b5599-b38b-4f67-b97a-7913d2f6b592)
+
+
