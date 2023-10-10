@@ -13,13 +13,19 @@ The data for this project is sourced from the Chicago Data Portal. It includes i
 ## Data Description:
 
 Number of Rows: 443,000
+
 Number of Columns: 17
+
 Update Frequency: Daily
+
 File Format: CSV
 
 ## Tools Used:
 
 ER/Studio Data Architect for data modeling.
+
 Alteryx for data integration and ETL processes.
+
 Microsoft SQL Server for data warehousing.
+
 Power BI and Tableau for business intelligence reporting and visualization.
