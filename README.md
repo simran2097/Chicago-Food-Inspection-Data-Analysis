@@ -68,9 +68,12 @@ Table: STG_CHICAGO_FOOD_ESTD_INS
 
 Dimensional Data Layer: Data is loaded into the multi-fact dimensional data warehouse after extraction and transformation with defined rules. Data quality checks are performed post data load, and audit columns are added to each dimension and fact for record audit and maintenance.
 
-Schemas: CHICAGO_INS
+Schemas: 
+CHICAGO_INS
+
 Tables:
 Dim_Chicago_BusinessLicenses
+
 Dim_Chicago_FacilityType
 Dim_Chicago_FoodInspectionResults
 Dim_Chicago_FoodInspectionType
