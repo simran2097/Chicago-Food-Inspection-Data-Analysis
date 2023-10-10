@@ -34,9 +34,18 @@ This dataset consists of below metadata information:
 
 ## 1. Data Profiling:
 The project utilizes ER/Studio Data Architect to design and manage data models and metadata for the database. It involves creating conceptual, logical, and physical data models, mapping relationships and dependencies between them, and implementing a multi-fact dimensional model using normalization and schema design strategies.
+
+### Alteryx Profiling Business License:
+
 ![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/28b42fd0-16e6-4741-bdeb-d3e19d16fdb6)
 
 ![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/f3453bef-8d1a-4772-8a31-2bfbec5623f7)
+
+### Alteryx Profiling for Food Inspection:
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/bafdb4ec-24d5-40a5-a8a1-52ce88027be5)
+
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/296f6991-2e6a-4b91-9a62-b5f073386c47)
+
 
 ## 2. Dynamic Dimensional Modeling:
 
@@ -53,6 +62,9 @@ Landing or Staging Data Layer: Data is extracted from the source and staged into
 Schema: CHICAGO_INS
 
 Table: STG_CHICAGO_FOOD_ESTD_INS
+
+![image](https://github.com/simran2097/Chicago_Food_Inspection/assets/47267975/bdfab847-08f5-4158-9633-f7284265e8e6)
+
 
 Dimensional Data Layer: Data is loaded into the multi-fact dimensional data warehouse after extraction and transformation with defined rules. Data quality checks are performed post data load, and audit columns are added to each dimension and fact for record audit and maintenance.
 
