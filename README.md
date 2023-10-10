@@ -29,3 +29,8 @@ Alteryx for data integration and ETL processes.
 Microsoft SQL Server for data warehousing.
 
 Power BI and Tableau for business intelligence reporting and visualization.
+
+This dataset consists of below metadata information:
+
+## 1. Data Profiling:
+The project utilizes ER/Studio Data Architect to design and manage data models and metadata for the database. It involves creating conceptual, logical, and physical data models, mapping relationships and dependencies between them, and implementing a multi-fact dimensional model using normalization and schema design strategies.
